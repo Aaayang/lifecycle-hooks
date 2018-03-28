@@ -1,2 +1,3 @@
 # lifecycle-hooks
-详解React声明周期
+
+![声明周期](https://github.com/aaayang/lifecycle-hooks/raw/master/src/common/img/life.jpg)
